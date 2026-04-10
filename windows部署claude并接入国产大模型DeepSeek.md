@@ -9,6 +9,10 @@ node -v
 npm -v
 ```
 
+结果：
+
+<img src=image-1.png width=300px>
+
 ## 2. 下载claude
 
 启动cmd shell，输入：
@@ -20,5 +24,8 @@ npm install -g @anthropic-ai/claude-code
 ```
 claude --version
 ```
+
 结果：
-![alt text](image.png)
+
+<img src=image.png width=300px>
+
